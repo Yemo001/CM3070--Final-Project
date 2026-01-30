@@ -100,17 +100,21 @@ A detailed evaluation and discussion of limitations is included in the final rep
 ├── report.pdf            # Final academic report
 ├── figures/              # Visualisations and plots
 └── data/                 # Processed datasets (where permitted)
+
+```
 ⚠️ Limitations
 
-API rate limits constrained data volume
+Like most academic and data-driven projects, this study has several constraints that should be considered when interpreting the results:
 
-TikTok data sourced from public datasets (no live API access)
+⏳ API rate limits restricted the total volume and frequency of data collection, particularly for YouTube Shorts.
 
-Trend labels depend on platform-specific definitions
+🎵 TikTok data was obtained from publicly available datasets rather than a live API, limiting control over data granularity and freshness.
 
-Results are exploratory and academic in nature
+🏷️ Trend labels are platform-dependent and rely on each platform’s definition of what constitutes “trending.”
 
-All limitations are discussed transparently in the report.
+🧪 Results are exploratory and academic in nature, intended to study patterns rather than deliver production-ready predictions.
+
+All limitations are discussed transparently and in greater detail in the final report.
 
 🎯 Learning Outcomes
 
@@ -122,7 +126,7 @@ Working with noisy, real-world datasets
 
 Feature engineering and model comparison
 
-Handling class imbalance in ML tasks
+Handling class imbalance in machine learning tasks
 
 Documenting system design, assumptions, and limitations
 
@@ -130,3 +134,4 @@ Documenting system design, assumptions, and limitations
 
 This project was completed for academic purposes only.
 It does not represent a production-ready or commercial forecasting system.
+
