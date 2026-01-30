@@ -10,7 +10,7 @@ The study focuses on a comparison between **YouTube Shorts** and **TikTok Shorts
 
 📚 This work was completed as a **Final Year Project** for the  
 **BSc (Hons) Computer Science — University of London**,  
-studied via **SIM (distance learning)**, with academic direction provided by **Goldsmiths, University of London**.
+studied via **SIM (distance learning)**, with academic direction provided by **University of London**.
 
 ---
 
