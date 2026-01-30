@@ -4,5 +4,5 @@
 
 Overview
 
-This repository contains all code, figures and reports for my BSc CS Final Year Project (UoL/Goldsmiths).
+This repository contains all code, figures and reports for my BSc CS Final Year Project (UoL).
 The project builds a lightweight, interpretable pipeline to predict trend emergence on YouTube Shorts using only early-available metadata (publish time, title, views/likes/comments) rather than full content analysis.
